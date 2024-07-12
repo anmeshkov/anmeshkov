@@ -1,8 +1,6 @@
-## Hi there 👋
-
 <h1 align="center">Hi there, I'm <a href="https://github.com/anmeshkov" target="_blank">Andrew Meshkov</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Frontend Developer</h3>
+<h2 align="center">Frontend Developer</h3>
 
 <!--
 **anmeshkov/anmeshkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
